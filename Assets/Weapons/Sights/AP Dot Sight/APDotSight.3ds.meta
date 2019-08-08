@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 267ba8ed52bec6d42afe377aa3d3e709
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BatteryPack
+    100004: Dial
+    100006: DialMount
+    100008: FrontLens
+    100010: FrontLensCov
+    100012: FrontLensCov.000
+    100014: InnerBody
+    100016: LeftBolt
+    100018: LensCoverMou
+    100020: LensCoverMou.000
+    100022: OuterBody
+    100024: RearLens
+    100026: RedDot
+    100028: RightBolt
+    100030: ScopeArm
+    400000: //RootNode
+    400002: BatteryPack
+    400004: Dial
+    400006: DialMount
+    400008: FrontLens
+    400010: FrontLensCov
+    400012: FrontLensCov.000
+    400014: InnerBody
+    400016: LeftBolt
+    400018: LensCoverMou
+    400020: LensCoverMou.000
+    400022: OuterBody
+    400024: RearLens
+    400026: RedDot
+    400028: RightBolt
+    400030: ScopeArm
+    2100000: silver
+    2100002: scopeAPDotSi
+    2100004: crosshairAPD
+    2100006: dial
+    2100008: scope
+    2100010: LensTextureA
+    2100012: cap
+    2100014: arm
+    2300000: BatteryPack
+    2300002: Dial
+    2300004: DialMount
+    2300006: FrontLens
+    2300008: FrontLensCov
+    2300010: FrontLensCov.000
+    2300012: InnerBody
+    2300014: LeftBolt
+    2300016: LensCoverMou
+    2300018: LensCoverMou.000
+    2300020: OuterBody
+    2300022: RearLens
+    2300024: RedDot
+    2300026: RightBolt
+    2300028: ScopeArm
+    3300000: BatteryPack
+    3300002: Dial
+    3300004: DialMount
+    3300006: FrontLens
+    3300008: FrontLensCov
+    3300010: FrontLensCov.000
+    3300012: InnerBody
+    3300014: LeftBolt
+    3300016: LensCoverMou
+    3300018: LensCoverMou.000
+    3300020: OuterBody
+    3300022: RearLens
+    3300024: RedDot
+    3300026: RightBolt
+    3300028: ScopeArm
+    4300000: FrontLensCov
+    4300002: FrontLensCov.000
+    4300004: FrontLens
+    4300006: RearLens
+    4300008: RedDot
+    4300010: BatteryPack
+    4300012: RightBolt
+    4300014: LeftBolt
+    4300016: ScopeArm
+    4300018: LensCoverMou
+    4300020: LensCoverMou.000
+    4300022: Dial
+    4300024: DialMount
+    4300026: OuterBody
+    4300028: InnerBody
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

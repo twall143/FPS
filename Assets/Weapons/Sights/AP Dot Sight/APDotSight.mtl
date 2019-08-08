@@ -1,0 +1,88 @@
+# Blender MTL File: 'APDotSight.blend'
+# Material Count: 8
+newmtl LensTexture_AIMPOINT_2MOA.png
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.023257 0.300000
+Ni 1.000000
+d 0.188235
+illum 2
+map_Kd D:\RomanHD\SilverDogGames\Adobe Photoshop CS6\_Photoshop\AIMPOINT_2MOA.png
+
+
+newmtl arm
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\RomanHD\\SilverDogGames\\Adobe Photoshop CS6\\_Photoshop\\UVs_Final\\APDotSightUVFinal.png
+
+
+newmtl cap
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.004000 0.004000 0.004000
+Ks 0.060569 0.060569 0.060569
+Ni 1.000000
+d 0.950000
+illum 2
+
+
+newmtl crosshair_APDotSightCrosshair.p
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 0.300000
+illum 0
+map_Kd D:\RomanHD\SilverDogGames\BLENDER\Images\APDotSightCrosshair.png
+
+
+newmtl dial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.026481 0.026481 0.026481
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\RomanHD\\SilverDogGames\\Adobe Photoshop CS6\\_Photoshop\\UVs_Final\\APDotSightUVFinal.png
+
+
+newmtl scope
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.001960 0.001960 0.001960
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\RomanHD\\SilverDogGames\\Adobe Photoshop CS6\\_Photoshop\\UVs_Final\\APDotSightUVFinal.png
+
+
+newmtl scope_APDotSightUVFinal.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.001960 0.001960 0.001960
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\RomanHD\SilverDogGames\Adobe Photoshop CS6\_Photoshop\UVs_Final\APDotSightUVFinal.png
+
+
+newmtl silver
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+

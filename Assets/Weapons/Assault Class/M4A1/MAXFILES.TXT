@@ -1,0 +1,6 @@
+J:\3ds max weapons\m4a1\scenes\t$m$p$$$\m4a1.max
+J:\3ds max weapons\m4a1\scenes\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2011\Maps\glare\glare_streaks_star_camera_filter.tif
+J:\CAMOS\vs-bg-digitalcamo.jpg
+C:\Program Files\Common Files\Autodesk Shared\Materials2011\assetlibrary_base.fbm\3\Mats\plastic_Smooth_bump.png
+C:\Program Files\Common Files\Autodesk Shared\Materials2011\assetlibrary_base.fbm\3\Mats\wild_cherry_cherry.png

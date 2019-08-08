@@ -1,0 +1,52 @@
+# Blender MTL File: 'newsniparscene.blend'
+# Material Count: 5
+
+newmtl blackMetal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.023651 0.023651 0.023651
+Ks 0.094737 0.094737 0.094737
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Dave\Desktop\WG\Squid\Weapons\newSciFiSnipar\SNiper_Text_Basic.png
+
+newmtl bullet
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.429225 0.200153 0.057274
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Dave\Desktop\WG\Squid\Weapons\newSciFiSnipar\SNiper_Text_Basic.png
+
+newmtl bulletShell
+Ns 769.138750
+Ka 0.000000 0.000000 0.000000
+Kd 0.517333 0.400274 0.049097
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Dave\Desktop\WG\Squid\Weapons\newSciFiSnipar\SNiper_Text_Basic.png
+
+newmtl greyMetal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.113921 0.113921 0.113921
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Dave\Desktop\WG\Squid\Weapons\newSciFiSnipar\SNiper_Text_Basic.png
+
+newmtl scope
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.764072 0.007208 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Dave\Desktop\WG\Squid\Weapons\newSciFiSnipar\SNiper_Text_Basic.png
